@@ -11,7 +11,7 @@ sasl.username
 sasl.password
 ```
 
-# Best practice for higher availability in librdkafka clients prior to 1.7
+## Best practice for higher availability in librdkafka clients prior to 1.7
 ```sh
 session.timeout.ms
 ```
